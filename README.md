@@ -1,0 +1,2 @@
+# VocabularyTrainerRepository
+Used IDE: Eclipse
