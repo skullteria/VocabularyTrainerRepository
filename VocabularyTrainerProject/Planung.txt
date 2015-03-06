@@ -1,0 +1,47 @@
+Vokabeltrainer:
+
+Benutzerverwaltung
+
+Jeder Benutzer kann eine Vokabelliste(Liste) erstellen
+
+Die Liste kann Tags enthalten
+
+Man kann die Listen öffentlich zugreifbar machen, für andere Mitglieder
+
+In diesen Listen befinden sich die Vokabeln
+
+Es gibt mindestens 2 Kategorien in jeder Liste
+
+Eine gehört zu einer der Kategorien in der Liste
+
+Jede Vokabel ist mit mindestens einer anderen Vokabel in den anderen Kategorien verbunden
+
+Man hat die Möglichkeit einen Abfragedurchgang auszuführen
+
+Man kann bei einem Abfragedurchgang zwischen Selbsteingabe und MultipleChoice wählen
+
+Bei MultipleChoice kann man einstellen wie viele andere Vokabeln neben der richtigen angezeigt werden sollen
+
+Die Abfragedurchgänge werden protokolliert, um den Lernerfolg auswerten zu können
+
+Es wird verhindert, dass in einem Abfragedurchgang dieselbe Vokabel mehrfach abgefragt wird
+
+Der Abfragedurchgang kann vom Benutzer frühzeitig beendet werden
+
+Man kann einstellen, ob die Groß-/Kleinschreibung ignoriert werden soll
+
+Zu einem Abfragedurchgang den Fehlerquotient anzeigen
+
+Grafiksymbole zu den Vokabelkategorien einer Liste hinzufügen können
+
+
+
+Objekte:
+
+User
+Liste
+Vokabel
+Vokabelkategorie
+Abfragedurchgang
+
+
